@@ -10,7 +10,7 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-<!--   <a href="https://www.linkedin.com/in/subhrajeet-biswas-79a415237" target="_blank"> -->
+<!--   <a href="https://www.linkedin.com/in/sonamkumari" target="_blank"> -->
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <!--   <a href="https://www.facebook.com/share/19vDEmTJJ8/" target="_blank"> -->
